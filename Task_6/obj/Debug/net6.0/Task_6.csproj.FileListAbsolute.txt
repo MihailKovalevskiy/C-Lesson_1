@@ -1,0 +1,15 @@
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\bin\Debug\net6.0\Task_6.exe
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\bin\Debug\net6.0\Task_6.deps.json
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\bin\Debug\net6.0\Task_6.runtimeconfig.json
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\bin\Debug\net6.0\Task_6.dll
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\bin\Debug\net6.0\Task_6.pdb
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.csproj.AssemblyReference.cache
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.AssemblyInfoInputs.cache
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.AssemblyInfo.cs
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.csproj.CoreCompileInputs.cache
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.dll
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\refint\Task_6.dll
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.pdb
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\Task_6.genruntimeconfig.cache
+D:\МИША\IT -КУРСЫ\C#\C#Lesson_1\Homework\Task_6\obj\Debug\net6.0\ref\Task_6.dll
